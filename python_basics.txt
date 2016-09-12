@@ -1,0 +1,9 @@
+
+
+
+# Python string 
+string1 = "hello world"
+string2 = "this is python string example!"
+
+print string1
+print string2
